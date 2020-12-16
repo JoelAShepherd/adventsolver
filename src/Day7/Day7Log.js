@@ -1,7 +1,7 @@
 import React from 'react'
 import input7 from './input7';
-import testData1 from './testData1';
-import testData2 from './testData2'
+//import testData1 from './testData1';
+//import testData2 from './testData2'
 
 
 
