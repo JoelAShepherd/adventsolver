@@ -1,11 +1,11 @@
 
 import './App.css';
-import Day12Log from './Day12/Day12Log';
+import Day12LogB from './Day12/Day12LogB';
 
 function App() {
   return (
     <div className="App">
-      <Day12Log />
+      <Day12LogB />
     </div>
   );
 }
